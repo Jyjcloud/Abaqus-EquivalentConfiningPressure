@@ -34,8 +34,9 @@ This setup simulates a “vacuum environment”, where the internal pressure is 
 
 ##References
 
-[1]Wang Y, Li L, Hofmann D, et al. Structured fabrics with tunable mechanical properties. Nature. 2021;596(7871):238-243.doi: 10.1038/s41586-021-03698-7
-[2]Tian Y, Chen K, Zheng H, et al. Additively Manufactured Dual‐Faced Structured Fabric for Shape‐Adaptive Protection. Adv Sci. 2023;10(21).doi: 10.1002/advs.202301567
+[1] Wang Y, Li L, Hofmann D, et al. Structured fabrics with tunable mechanical properties. Nature. 2021;596(7871):238-243.doi: 10.1038/s41586-021-03698-7.
+
+[2] Tian Y, Chen K, Zheng H, et al. Additively Manufactured Dual‐Faced Structured Fabric for Shape‐Adaptive Protection. Adv Sci. 2023;10(21).doi: 10.1002/advs.202301567.
 
 ##Authors
 
