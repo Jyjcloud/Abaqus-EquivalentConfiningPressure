@@ -20,6 +20,7 @@ Key components of the method include:
 - Use of“General Contact” to couple the membrane and the internal structure  
 
 This setup simulates a “vacuum environment”, where the internal pressure is zero and an external negative pressure is applied, resulting in isotropic contraction of the membrane and confinement of the internal structure.
+The full setup can be found in the provided input file TI-P-60kPa.inp.
 
 ##Abaqus Settings
 
